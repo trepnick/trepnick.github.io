@@ -60,8 +60,8 @@ plugins:
 
 author:
   name   : "Ben Haines"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "https://avatars1.githubusercontent.com/u/1585935?s=460&u=fd261ef6d6f5e80a07ebf781f0ac941891f8cef4&v=4"
+  bio    : "Software Engineer. Student. Communicator"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
