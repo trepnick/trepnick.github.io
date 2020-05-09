@@ -87,6 +87,10 @@ footer:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
+    - label: "Categories"
+      url: "https://trepnick.github.io/categories/"
+    - label: "Tags"
+      url: "https://trepnick.github.io/tags/"
 
 defaults:
   # _posts
