@@ -44,7 +44,7 @@ Sr. Level 4 Pharmacy Technician
 ### Interests
 ---
 
-- Speech and Debate - I've won multiple national competitions and have a particular love for poetryinterpretation.
+- Speech and Debate - I've won multiple national competitions and have a particular love for poetry interpretation.
 - Backpacking - over 500 miles on the Appalachian trail and counting!
 - Research - primarily in the field of computational argumentation, combining my love of debate with math andcomputer science.
 - Aerospace - Nothing better than a full day at the Air and Space museum to me!
