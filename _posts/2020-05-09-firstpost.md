@@ -2,8 +2,12 @@
 title: "SPARC Research Pt. 1: Intro"
 date: 2020-05-09
 categories:
-- Blog
-- Background Info
+    - Blog
+    - Background Info
+tags:
+    - SPARC
+    - Python
+
 ---
 
 So this is a bit of a complicated post to write. So much of what I did at SPARC Research is covered by arms regulation that I can only go into detail about a limited subset of the things I did there. I'm going to attempt to write just a bit about the kinds of technologies I used and how I used them.
