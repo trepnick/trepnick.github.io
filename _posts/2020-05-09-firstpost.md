@@ -1,5 +1,5 @@
 ---
-title: "SPARC Research Pt. 1: Intro"
+title: "SPARC Research"
 date: 2020-05-09
 categories:
     - Blog
@@ -23,7 +23,3 @@ We set about trying to get started on this GUI and it was a heck of a job from t
 Once we were able to generate input files, we started working on an actual GUI. It had been decided before I got there that we would use Tkinter, which in many ways is a terrible choice for this kind of project. If the target audience were other software engineers, it would've been fine, but we had to package up our GUI in such a way that an aerospace engineer with no knowledge of python or virtual environments or anything like that could manage to install all the required dependencies and run the software with a minimum of hassle.
 
 We ended up using PyInstaller for this, a difficult package to use even if you know a fair bit about the internals of python and its packaging system, but we knew none of that. We ended up with a whole pile of different versions of our dependencies, testing which ones already had all the appropriate hooks and things to make PyInstaller function without too much extra manual work. Eventually we got it all packaged up and our boss was able to work with the software and create his own simulation models for the contracts we worked on while I was there, but it was no short road to get there.
-
----
-
-Next time I'll continue with some of the automation tools we used and how we went about building the actual GUI portion of the software.
